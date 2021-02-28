@@ -1,1 +1,2 @@
-# TypescriptSample
+＃TypescriptSample
+あああ
